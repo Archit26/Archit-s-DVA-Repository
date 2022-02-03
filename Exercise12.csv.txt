@@ -1,0 +1,5 @@
+shape	x	y	height	width	color	rx	ry	r	x1	y1
+rect	0	0	80	160	orange	0	0	0	0	0
+circle	240	40	0	0	red	40	40	40	0	0
+ellipse	500	400	0	0	blue	300	200	0	0	0
+line	400	400	0	0	purple	0	0	0	400	0
